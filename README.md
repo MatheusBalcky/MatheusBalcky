@@ -1,6 +1,6 @@
 ## Hello! My name is Matheus, welcome to my profile! 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mmatheus.silvaa/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-da-silva-melo-78a459223/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheuscabal821@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mmatheus.silvaa/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-da-silva-melo-78a459223/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheuscabal821@gmail.com)[![wakatime](https://wakatime.com/badge/user/9b93ee4e-7aba-41dd-b467-4aa22a90e7f5.svg)](https://wakatime.com/@9b93ee4e-7aba-41dd-b467-4aa22a90e7f5)
 
 <!-- [Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBalcky&show_icons=true&theme=radical) -->
 
