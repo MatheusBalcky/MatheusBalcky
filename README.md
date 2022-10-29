@@ -54,6 +54,7 @@ Tenho 22 anos, moro em Pernambuco/Recife e sou apaixonado por programação e m�
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBalcky&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBalcky&layout=compact)](https://github.com/MatheusBalcky/github-readme-stats)
+
 [![wakatime](https://wakatime.com/badge/user/9b93ee4e-7aba-41dd-b467-4aa22a90e7f5.svg)](https://wakatime.com/@9b93ee4e-7aba-41dd-b467-4aa22a90e7f5)
 
  “Christ literally walked in our shoes.”—Tim Keller
