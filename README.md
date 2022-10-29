@@ -1,6 +1,6 @@
 ## Olá, Tudo bem? 👋
 
-Tenho 22 anos, moro em Pernambuco/Recife e sou apaixonado por programação e música cara! Sou um amante da tecnologia e estou dando meus primeiros passos na programação recentemente. E onde tudo começou e protagonizou o "background" de programação na minha vida foi o bootcamp da **Driven Education**. Onde sou muito grato por toda equipe, que confiou não só na minha capacidade de aprender rápido, mas também na capacidade de aprender com cada erro que encontro no caminho. Após resolver o bug e a aplicação funcionou? RECEBA PAI!
+Tenho 22 anos, moro em Pernambuco/Recife e sou apaixonado por programação e música cara! Sou um amante da tecnologia e estou dando meus primeiros passos na programação recentemente. E onde tudo começou e protagonizou o "background" de programação na minha vida foi o bootcamp da **Driven Education**. Onde sou muito grato por toda equipe, que confiou não só na minha capacidade de aprender rápido, mas também na capacidade de aprender com cada erro que encontro no caminho. Após resolver o bug, a aplicação funcionou? RECEBA PAI!
 
 
 <div display="flex">
