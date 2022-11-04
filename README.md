@@ -16,7 +16,7 @@ Após resolver o bug, a aplicação funcionou? RECEBA PAI!
 </div>
 
 
-#### ✉️ Você entrar em contato através de: </br>
+#### ✉️ Você pode entrar em contato através das redes: </br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusbalcky/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheuscabal821@gmail.com)
 
 </hr>
