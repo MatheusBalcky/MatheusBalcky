@@ -8,7 +8,7 @@ Após resolver o bug, a aplicação funcionou? RECEBA PAI!
 <div display="flex">
 <img align="right" width='300px' src="https://media.tenor.com/IkETK1qP31IAAAAS/receba-luva-de-pedreiro.gif" />
 <p>
-  - 🔭 Eu estou atualmente estudando POO. </br>
+  - 🔭 Eu estou atualmente estudando PHP e POO. </br>
   - 🔎 Estou procurando colaborar em uma empresa B2B ou B2C em qualquer tipo de desenvolvimento, fullstack, front ou back </br>
   - 🎮 🎸 Eu amo jogar online principalmente FPS. Tocar e cantar também se encontra nos meus hobbies. </br>
   - ⚡ Fato engraçado: Costumo usar meu nick em jogos online como "Balcky". Uma vez acabei escrevendo errado meu nick em um game onde devia ser "Black" mas foi "Balcky" e acabou ficando esse 🤣
