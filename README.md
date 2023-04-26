@@ -1,6 +1,6 @@
 ## Olá, Tudo bem? 👋
 
-Tenho 22 anos, moro em Pernambuco/Recife e sou apaixonado por programação e música cara! Sou um amante da tecnologia desde pequeno, até que acabei conhecendo a programação recentemente. Então sigo atualmente aprendendo ansiosamente várias stack para me tornar um desenvolvedor cada vez mais completo.
+Tenho 23 anos, moro em Pernambuco/Recife e sou apaixonado por programação e música cara! Sou um amante da tecnologia desde pequeno, até que acabei conhecendo a programação recentemente. Então sigo atualmente aprendendo ansiosamente várias stack para me tornar um desenvolvedor cada vez mais completo.
 E onde tudo isso vem ganhando cada vez mais forma na minha jornado é no bootcamp da **Driven Education** (Empresa que tem como objetivo formar desenvolvedores web fullstack). Então a essa equipe maravilhosa que sou muito grato, que não somente confiou na minha capacidade de aprender, mas também na capacidade de aprender com cada erro que encontro no caminho #DevDriven.
 Após resolver o bug, a aplicação funcionou? RECEBA PAI!
 
@@ -8,7 +8,7 @@ Após resolver o bug, a aplicação funcionou? RECEBA PAI!
 <div display="flex">
 <img align="right" width='300px' src="https://media.tenor.com/IkETK1qP31IAAAAS/receba-luva-de-pedreiro.gif" />
 <p>
-  - 🔭 Eu estou atualmente estudando PHP e POO. </br>
+  - 🔭 Eu estou atualmente estudando as novas tecnologias do mundo Back-end. </br>
   - 🔎 Estou procurando colaborar em uma empresa B2B ou B2C em qualquer tipo de desenvolvimento, fullstack, front ou back </br>
   - 🎮 🎸 Eu amo jogar online principalmente FPS. Tocar e cantar também se encontra nos meus hobbies. </br>
   - ⚡ Fato engraçado: Costumo usar meu nick em jogos online como "Balcky". Uma vez acabei escrevendo errado meu nick em um game onde devia ser "Black" mas foi "Balcky" e acabou ficando esse 🤣
