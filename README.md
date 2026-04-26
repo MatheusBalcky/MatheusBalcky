@@ -4,9 +4,6 @@
 Participei de um bootcamp intensivo em 2022, onde desenvolvi +25 projetos práticos, adquirindo experiência em desenvolvimento de aplicações completas (frontend e backend).
 Atualmente curso Análise e Desenvolvimento de Sistemas (ADS), fortalecendo minha base teórica enquanto sigo evoluindo na prática.</br>
 
-<div display="flex">
-<img align="right" width='300px' src="https://media.tenor.com/IkETK1qP31IAAAAS/receba-luva-de-pedreiro.gif" />
-<p>
   - 🎮 🎸 Eu amo jogar online principalmente FPS. Tocar e cantar também se encontra nos meus hobbies. </br>
   - ⚡ Fato engraçado: Costumo usar meu nick em jogos online como "Balcky". Uma vez acabei escrevendo errado meu nick em um game onde devia ser "Black" mas foi "Balcky" e acabou ficando esse 🤣
 </p>
