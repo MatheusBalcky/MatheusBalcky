@@ -2,13 +2,7 @@
 
 👋 Desenvolvedor Full Stack em formação, apaixonado por tecnologia e resolução de problemas.
 Participei de um bootcamp intensivo em 2022, onde desenvolvi +25 projetos práticos, adquirindo experiência em desenvolvimento de aplicações completas (frontend e backend).
-Atualmente curso Análise e Desenvolvimento de Sistemas (ADS), fortalecendo minha base teórica enquanto sigo evoluindo na prática.
-💻 Stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, Prisma, TypeScript, Docker, AWS
-🧪 Testes: Cypress, Jest | CI/CD: GitHub Actions
-🚀 Explorando também o uso de IA no desenvolvimento para aumentar produtividade com qualidade.
-🖥️ GitHub: https://github.com/MatheusBalcky
-✉️ Email: matheuscabal821@gmail.com
-
+Atualmente curso Análise e Desenvolvimento de Sistemas (ADS), fortalecendo minha base teórica enquanto sigo evoluindo na prática.</br>
 
 <div display="flex">
 <img align="right" width='300px' src="https://media.tenor.com/IkETK1qP31IAAAAS/receba-luva-de-pedreiro.gif" />
